@@ -1,0 +1,43 @@
+.colortable td {
+    border: solid 2px #fff;
+    border-top-color: rgb(255, 255, 255);
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-right-color: rgb(255, 255, 255);
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-bottom-color: rgb(255, 255, 255);
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-left-color: rgb(255, 255, 255);
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    padding: 8px;
+}
+* {
+    box-sizing: border-box;
+}
+.colortable {
+    white-space: nowrap;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-size: 10pt;
+}
+table {
+    border-spacing: 0;
+}
+table {
+    text-indent: initial;
+}
+body {
+    font-family: "ƒqƒ‰ƒMƒmŠpƒS Pro W3","Hiragino Kaku Gothic Pro","ƒqƒ‰ƒMƒmŠpƒS W3","Hiragino Kaku Gothic","ƒƒCƒŠƒI","Lucida Grande",Verdana,"‚l‚r ‚oƒSƒVƒbƒN",sans-serif;
+    padding-top: 70px;
+    margin-bottom: 750px;
+    letter-spacing: 1px;
+}
